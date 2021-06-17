@@ -7,7 +7,7 @@
 ## Sample
 
 
-![Horizontal-CalendarView](https://github.com/rahulgohil08/Horizontal-Calendar-Without-Library/sample/horizontal-calendarview.gif)
+![Horizontal-CalendarView](https://raw.githubusercontent.com/rahulgohil08/Horizontal-Calendar-Without-Library/master/sample/horizontal-calendarview.gif)
 
 
 
