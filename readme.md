@@ -4,6 +4,16 @@
 
 
 
+## Sample
+
+
+![Horizontal-CalendarView](https://github.com/rahulgohil08/Horizontal-Calendar-Without-Library/sample/horizontal-calendarview.gif)
+
+
+
+
+
+
 ## Purpose of the Project
 
 Horizontal Calendar View, The Project Name it self indicates that you can create your own custom Horizontal Calendar View using RecyclerView and Adapter without depending on any External Library.
